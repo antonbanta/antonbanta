@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Anton Banta
 
 <!--
 **antonbanta/antonbanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Machine Learning and Biotechnology Engineer with a Ph.D. in Electrical and Computer Engineering and cross-disciplinary expertise in computational neuroscience, signal processing, and applied AI. Experienced in developing machine learning models for large complex datasets, ranging from neural and physiological signals to multimodal sensor and imaging data. Skilled at translating research concepts into scalable analytical tools, predictive models, and technology prototypes. Passionate about applying data-driven innovation to improve outcomes across industries including healthcare, biotechnology, human performance, and advanced sensing. You can look at my repos and webpage to learn more about the projects I am currently working on.
+
